@@ -1,0 +1,29 @@
+body
+{
+    background-color: yellowgreen;
+}
+
+span{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#timer{
+    font-size:35px;
+    float:right;
+    margin-right: 20px;
+
+}
+
+#score{
+    font-size:35px;
+    float:left;
+    margin-left: 20px;
+}
+
+#sketch_name{
+    color: blue;
+}
